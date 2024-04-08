@@ -17,5 +17,15 @@ Place the folder with your DSI theme into (Drive Letter):/_nds/TWiLightMenu/dsim
 
 ### Step 3 
 Reinsert your SD card into your console.
-Navegate form the UnLanuch to the TWLightMenu++ settings and use the + pad to navgate to the 
+Navegate form the UnLanuch to the TWLightMenu++ settings and use the + pad to navgate to the TwlightMenu settings.then, select the theme you want and use the A key and B key combnation too _nstall.
+
+### Step 4 
+Enjoy ! Your amazing theme!
+
+##Donate!
+
+Cash app:
+$CyberpunkF0x
+
+
 
