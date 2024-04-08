@@ -1,6 +1,6 @@
 # DSI_Themes
 
-## We havent finshed this check back latter!
+
 ## About these themes.
 All of this are themes by me (Unless I give credit to someone) so they are mostly furry related. I used a lot of AI art for these so credit for that goes to bing ai. I will always give credit to the artist if I used their art.
 
